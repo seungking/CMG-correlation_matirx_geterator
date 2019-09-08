@@ -24,11 +24,13 @@ Manual of the program is written in Korean. Read it before using.
 ![캡처](https://user-images.githubusercontent.com/55059074/64491823-96a0c200-d2a7-11e9-87d8-540b61902285.PNG)
 
 
-<b>by Seungki An.
+by<br>
+Seungki An<br>
 KwangWoon University, Seoul
 
 
 in Center for BioMicrosystems,<br>
 Brain Science Institute,<br>
-KIST (Kist Institude of Science and Technology) (2019.06 ~ 2019.08)
-<b/>
+KIST (Kist Institude of Science and Technology)<br>
+(2019.06 ~ 2019.08)
+
