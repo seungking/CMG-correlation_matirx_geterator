@@ -1,4 +1,4 @@
-# CMG-correlation_matirx_geterator_by_matlab
+# CMG-correlation_matirx_geterator_by_Matlab
 
 For calculating Correlation matrix of each spike train's correlation coefficient
 
