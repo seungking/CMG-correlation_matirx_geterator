@@ -11,9 +11,10 @@ Manual of the program is written in Korean. Read it before using.
 by
 Seungki An.
 
-
 KwangWoon University, Seoul
 
 in Center for BioMicrosystems,Brain Science Institute,
+
 KIST (Kist Institude of Science and Technology)
+
 (2019.06 ~ 2019.08)
