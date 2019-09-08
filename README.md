@@ -5,7 +5,7 @@
 <b>For calculating Correlation matrix of each spike train's correlation coefficient</b>
 
 with two method to quantify the correlation of electrical stimulation<br>
-  <b>1) STTC - spiketrain_time_tiling_coeffcient
+  <b>1) STTC - spiketrain_time_tiling_coeffcient<br>
   2) The Kerschensteniner and Wong(2008) measure</b>
  
 Manual of the program is written in Korean. Read it before using.
@@ -28,6 +28,7 @@ Manual of the program is written in Korean. Read it before using.
 KwangWoon University, Seoul
 
 
-in Center for BioMicrosystems, Brain Science Institute,
- KIST (Kist Institude of Science and Technology) (2019.06 ~ 2019.08)
+in Center for BioMicrosystems,<br>
+Brain Science Institute,<br>
+KIST (Kist Institude of Science and Technology) (2019.06 ~ 2019.08)
 <b/>
