@@ -8,6 +8,8 @@ with two method to quantify the correlation of electrical stimulation
  
 Manual of the program is written in Korean. Read it befroe using.
 
+by seungki an
+
 by
 Seungki An.
 KwangWoon University, Seoul
