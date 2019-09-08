@@ -5,9 +5,8 @@
 <b>For calculating Correlation matrix of each spike train's correlation coefficient</b>
 
 with two method to quantify the correlation of electrical stimulation
-
-  <b>1) STTC - spiketrain_time_tiling_coeffcient</b>
-  <b>2) The Kerschensteniner and Wong(2008) measure</b>
+  <b>1) STTC - spiketrain_time_tiling_coeffcient
+  2) The Kerschensteniner and Wong(2008) measure</b>
  
 Manual of the program is written in Korean. Read it before using.
 
