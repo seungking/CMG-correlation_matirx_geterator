@@ -1,6 +1,6 @@
 # CMG-correlation_matirx_geterator
 
-인공 막망 구현을 위한 시각 세포의 상관 관계 분석을 계산 및 행렬의 형태로 
+인공 막망 구현을 위한 시각 세포의 상관 관계 분석 및 계산 
 
 For calculating Correlation matrix of each spike train's correlation coefficient
 
