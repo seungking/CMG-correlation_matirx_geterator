@@ -10,6 +10,7 @@ Manual of the program is written in Korean. Read it befroe using.
 
 
 by Seungki An.
+adf
 KwangWoon University, Seoul
 
 in
