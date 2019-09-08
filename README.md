@@ -6,10 +6,8 @@ with two method to quantify the correlation of electrical stimulation
   1) STTC - spiketrain_time_tiling_coeffcient
   2) The Kerschensteniner and Wong(2008) measure
  
-Manual of the program is written in Korean. Read it befroe using.
+Manual of the program is written in Korean. Read it before using.
 
-by seungki an
-KwangWoon University, Seoul
 by
 Seungki An.
 KwangWoon University, Seoul
