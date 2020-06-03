@@ -20,7 +20,7 @@ Manual of the program is written in Korean. Read it before using.
 <b><Example 1></b><br>
 ![2](https://user-images.githubusercontent.com/55059074/64491821-94d6fe80-d2a7-11e9-9590-9cf8a81612ec.PNG)
 
-<b><Example 2></b>
+<b><Example 2></b><br>
 ![캡처](https://user-images.githubusercontent.com/55059074/64491823-96a0c200-d2a7-11e9-87d8-540b61902285.PNG)
 
 
