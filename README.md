@@ -17,7 +17,7 @@ Manual of the program is written in Korean. Read it before using.
 ![page2_result](https://user-images.githubusercontent.com/55059074/64491793-54778080-d2a7-11e9-8814-0ad78b3e7007.JPG)
 
 
-<b><Example 1></b>
+<b><Example 1></b><br>
 ![2](https://user-images.githubusercontent.com/55059074/64491821-94d6fe80-d2a7-11e9-9590-9cf8a81612ec.PNG)
 
 <b><Example 2></b>
